@@ -1,0 +1,35 @@
+body {
+    margin: 5rem;
+}
+body div img {
+    display: inline-block;
+
+    width: 10em;
+    height: auto;
+}
+text {
+    font-weight: 100;
+}
+.container {
+    display: block;
+    flex-direction: column;
+    margin: 8rem;
+    padding: 1em;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+div{
+    display: block;
+    margin: 5rem;
+    padding: 1em;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+article {
+    display: grid;
+    size: 300px;
+}
+div article {
+    display: grid;
+}
+
